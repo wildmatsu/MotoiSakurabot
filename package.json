@@ -1,0 +1,13 @@
+{
+  "name": "MotoiSakurabot",
+  "version": "1.0.0",
+  "description": "Generates Motoi Sakuraba song titles",
+  "main": "bot.js",
+  "author": "WildMatsu#2211",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.4.2",
+    "markov-strings": "^2.0.2",
+    "winston": "^3.2.1"
+  }
+}
